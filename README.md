@@ -1,27 +1,91 @@
 ## Hi there 👋
 
-<!--
-**Bratd002/Bratd002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-I am Daniel and have achieved a MSc in Conservation Management and a BSc in Environmental Science
-During my study I really enjoyed the data analysis and predictive model creation 
-I currently work as an Environmental Scientist with a company that specialises in polluted land remediation
-I want to eventually move into work which utilises and helps me continue to develop data analysis and engineering skills
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-03-23T18:53:13.658Z",
+  "profile": {
+    "title": "Daniel Brattle",
+    "subtitle": "An Environmental data enthusiast ",
+    "currentWork": "Environmental data analysis and predictive modelling ",
+    "currentLearn": "SQL and Python in collaboration with GIS ",
+    "collaborateOn": "Environmental projects ",
+    "helpWith": "",
+    "ama": "",
+    "contact": "",
+    "funFact": "",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://github.com/Bratd002",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "Bratd002",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "postgresql",
+    "python"
+  ]
+}
