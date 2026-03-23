@@ -1,91 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Daniel Brattle
 
+### An Environmental data enthusiast - MSc Conservation management & BSc Environmental Science 
 
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-03-23T18:53:13.658Z",
-  "profile": {
-    "title": "Daniel Brattle",
-    "subtitle": "An Environmental data enthusiast ",
-    "currentWork": "Environmental data analysis and predictive modelling ",
-    "currentLearn": "SQL and Python in collaboration with GIS ",
-    "collaborateOn": "Environmental projects ",
-    "helpWith": "",
-    "ama": "",
-    "contact": "",
-    "funFact": "",
-    "visitorsBadge": false,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "https://github.com/Bratd002",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "Bratd002",
-    "dev": "",
-    "linkedin": "",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "postgresql",
-    "python"
-  ]
-}
+My academic background is in Environmental Science (BSc) and Ecology (MSc). I developed a keen interest durng my academic studies in data analysis and modelling using environmental datasets. Currently, I serve as an Environmental Scientist specializing in polluted land remediation. I am eager to enhance my skills and build a portfolio that will support my career aspirations in data modeling within the environmental sector.
+
+- 🔭 I'm currently working on **Environmental data analysis and predictive modelling **
+
+- 🌱 I'm currently learning **SQL and Python in collaboration with GIS **
+
+- 👯 I'm looking to collaborate on **Environmental projects **
+
+- 👨‍💻 All of my projects are available at **[https://github.com/Bratd002](https://github.com/Bratd002)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Bratd002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Bratd002" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+
+  
+
