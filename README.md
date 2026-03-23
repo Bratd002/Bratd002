@@ -1,7 +1,5 @@
 # Hi 👋, I'm Daniel Brattle
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bratd002&label=Profile views&color=0e75b6&style=flat" alt="Bratd002" /> </p>
-
 ### An Environmental data enthusiast - MSc Conservation management & BSc Environmental Science 
 
 My academic background is in Environmental Science (BSc) and Ecology (MSc). I developed a keen interest durng my academic studies in data analysis and modelling using environmental datasets. Currently, I serve as an Environmental Scientist specializing in polluted land remediation. I am eager to enhance my skills and build a portfolio that will support my career aspirations in data modeling within the environmental sector.
