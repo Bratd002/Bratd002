@@ -10,7 +10,7 @@ My academic background is in Environmental Science (BSc) and Ecology (MSc). I de
 
 - 👯 I'm looking to collaborate on **Environmental projects **
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Bratd002](https://github.com/Bratd002)**
+- 👨‍💻 All of my projects are available at **[https://github.com/Bratd002?tab=projects](https://github.com/Bratd002?tab=projects)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
