@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+
+
 I am Daniel and have achieved a MSc in Conservation Management and a BSc in Environmental Science
 During my study I really enjoyed the data analysis and predictive model creation 
 I currently work as an Environmental Scientist with a company that specialises in polluted land remediation
